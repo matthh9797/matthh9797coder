@@ -1,5 +1,5 @@
 baseURL = "https://lovely-medovik-62ceda.netlify.app"
-title = "Puppet"
+title = "NomadCoder"
 
 theme = "puppet"
 
@@ -63,13 +63,13 @@ weight = 50
 [[menu.main]]
 identifier = "github"
 name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
+url = "https://github.com/matthh9797/"
 weight = 100
 
 
 [params]
 author = "Puppet"
-description = "A simple and clean theme for Hugo"
+description = "Practical tutorials on the latest innovations in data"
 keywords = "blog,developer,personal"
 img_home = "/img/home-bg.jpg"
 img_404 = "/img/404-bg.jpg"
