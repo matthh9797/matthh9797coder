@@ -1,3 +1,14 @@
++++
+title = "Using Images from Google Drive on your Website"
+date = 2022-09-25T15:38:30+08:00
+header_img = ""
+toc = true
+tags = ["documentation", "guide"]
+categories = []
+series = ["Themes Guide"]
++++
+
+
 This is a quick tutorial which shows you how to use images from your google drive on a website.
 
 First create a new folder on your Google Drive if you don't have one already. Usually, when I create a website I like to have a folder insite my website directory called "Static" with all of the images for the site. I will make this folder public to avoid repitition. 
