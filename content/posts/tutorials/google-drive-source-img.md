@@ -1,11 +1,12 @@
 +++
+author = "Matthew Henderson"
 title = "Using Images from Google Drive on your Website"
 date = 2022-09-25T15:38:30+08:00
-header_img = ""
+header_img = "/posts/tutorials/google-drive-source-img/bondi-beach-landscape.jpg"
 toc = true
 tags = ["documentation", "guide"]
 categories = []
-series = ["Themes Guide"]
+series = ["tutorials"]
 +++
 
 
