@@ -51,10 +51,15 @@ name = "Archive"
 url = "/archive/"
 weight = 10
 [[menu.main]]
-identifier = "guide"
-name = "Guide"
-url = "/series/themes-guide/"
+identifier = "blogs"
+name = "Blog"
+url = "/series/blogs/"
 weight = 20
+[[menu.main]]
+identifier = "tutorials"
+name = "Tutorial"
+url = "/series/tutorials/"
+weight = 30
 [[menu.main]]
 identifier = "about"
 name = "About"
