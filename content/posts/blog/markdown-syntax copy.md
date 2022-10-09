@@ -12,7 +12,7 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["themes-guide"]
+series = ["themes-guide-3"]
 aliases = ["migrate-from-jekyl"]
 toc = true
 +++
