@@ -1,5 +1,5 @@
 baseURL = "https://lovely-medovik-62ceda.netlify.app"
-title = "Puppet"
+title = "NomadCoder"
 
 theme = "puppet"
 
@@ -51,10 +51,15 @@ name = "Archive"
 url = "/archive/"
 weight = 10
 [[menu.main]]
-identifier = "guide"
-name = "Guide"
-url = "/series/themes-guide/"
+identifier = "blogs"
+name = "Blog"
+url = "/series/blogs/"
 weight = 20
+[[menu.main]]
+identifier = "tutorials"
+name = "Tutorial"
+url = "/series/tutorials/"
+weight = 30
 [[menu.main]]
 identifier = "about"
 name = "About"
@@ -63,13 +68,13 @@ weight = 50
 [[menu.main]]
 identifier = "github"
 name = "Github"
-url = "https://github.com/roninro/hugo-theme-puppet/"
+url = "https://github.com/matthh9797/"
 weight = 100
 
 
 [params]
 author = "Puppet"
-description = "A simple and clean theme for Hugo"
+description = "Practical tutorials on the latest innovations in data"
 keywords = "blog,developer,personal"
 img_home = "/img/home-bg.jpg"
 img_404 = "/img/404-bg.jpg"
